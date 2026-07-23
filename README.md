@@ -16,7 +16,7 @@ I turn ideas into working hardware and software: multi agent AI assistants, comp
 pipelines, competition robots, and things I machine, print, and solder by hand. I learn by
 building the thing and watching where it breaks.
 
-### What I'm building
+### What I Have Built
 
 - **Leo**: a distributed multi agent voice assistant that runs across two laptops (wake word, on device speech, a multi model orchestration brain with vector memory, and TTS over an encrypted mesh). 50+ Python modules.
 - **eBike Safety Camera** *(in development)*: a privacy first computer vision project that studies eBike safety by design, no raw footage, anonymous aggregate insight only.
